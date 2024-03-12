@@ -8,17 +8,14 @@ def getTestData():
     sheet = book.active
     data_comb = []
     cell = sheet.cell(row=2, column=1)
-    print(cell.value)
-    print(sheet.max_row)
-    print(sheet.max_column)
 
-    for row in sheet.iter_rows(min_row=2, max_row=sheet.max_row, min_col=1, max_col=2, values_only=True):
-        username, password = row
-        print(f"Username: {username}, Password: {password}")
-        data_comb.append((username, password))
-        print(data_comb)
+    for i in range(2, sheet.max_row+1):
+        row = []
+        for j in range(1, sheet.max_column+1):
+            row.append(sheet.cell(row=i, column=j).value)
+        data_comb.append(row)
 
-    return  data_comb
+    return data_comb
 
 print(getTestData())
 
