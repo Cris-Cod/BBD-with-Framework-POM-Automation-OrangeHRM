@@ -7,6 +7,7 @@ import pytest
 @pytest.mark.usefixtures("setup")
 class BaseClass:
 
+
     def loggen(self):
         logger = logging.getLogger()
         fileHandler = logging.FileHandler('./Logs/logfile.log', mode='w')

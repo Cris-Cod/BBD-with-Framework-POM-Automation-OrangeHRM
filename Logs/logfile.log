@@ -1,0 +1,55 @@
+2024-03-17 21:31:54,586 :INFO :root :********** se ingresa a la pagina **********
+2024-03-17 21:31:55,139 :INFO :root :********** se encuentra la imagen True **********
+2024-03-17 21:31:55,140 :INFO :root :********** se ingresa a la pagina del login <POM.LoginPage.LoginPage object at 0x0000015A0FEE7C10> **********
+2024-03-17 21:31:55,174 :INFO :root :********** se ingresa el usuario admin **********
+2024-03-17 21:31:55,216 :INFO :root :********** se ingresa el password admin123 **********
+2024-03-17 21:31:56,255 :INFO :root :********** se realiza click al botón del login **********
+2024-03-17 21:31:56,256 :INFO :root :********** se ingresa a la pagina del dashboard <POM.DashboardPage.DashboardPage object at 0x0000015A0FEE7C10> **********
+2024-03-17 21:31:56,788 :INFO :root :********** se toma el texto Dashboard **********
+2024-03-17 21:31:56,988 :INFO :root :********** Test Passed **********
+2024-03-17 21:32:02,731 :INFO :root :********** se ingresa a la pagina **********
+2024-03-17 21:32:03,286 :INFO :root :********** se encuentra la imagen True **********
+2024-03-17 21:32:03,287 :INFO :root :********** se ingresa a la pagina del login <POM.LoginPage.LoginPage object at 0x0000015A10AA6C10> **********
+2024-03-17 21:32:03,323 :INFO :root :********** se ingresa el usuario admin **********
+2024-03-17 21:32:03,361 :INFO :root :********** se ingresa el password admin **********
+2024-03-17 21:32:04,551 :INFO :root :********** se realiza click al botón del login **********
+2024-03-17 21:32:04,552 :INFO :root :********** se ingresa a la pagina del login <POM.LoginPage.LoginPage object at 0x0000015A10AA6790> **********
+2024-03-17 21:32:05,080 :INFO :root :********** se toma el texto de Invalid credentials <POM.LoginPage.LoginPage object at 0x0000015A10AA6790> **********
+2024-03-17 21:32:05,080 :INFO :root :********** el test paso **********
+2024-03-17 21:32:10,785 :INFO :root :********** se ingresa a la pagina **********
+2024-03-17 21:32:11,829 :INFO :root :********** se encuentra la imagen True **********
+2024-03-17 21:32:11,831 :INFO :root :********** se ingresa a la escenario de multiples user y passwords <POM.LoginPage.LoginPage object at 0x0000015A10AAEC90> **********
+2024-03-17 21:32:11,863 :INFO :root :********** se ingresa el usuario admin **********
+2024-03-17 21:32:11,906 :INFO :root :********** se ingresa el password admin123 **********
+2024-03-17 21:32:12,985 :INFO :root :********** se realiza click al botón del login **********
+2024-03-17 21:32:12,986 :INFO :root :********** se ingresa a la pagina del dashboard <POM.DashboardPage.DashboardPage object at 0x0000015A0FEE7490> **********
+2024-03-17 21:32:13,515 :INFO :root :********** se toma el texto Dashboard **********
+2024-03-17 21:32:13,718 :INFO :root :********** Test Passed **********
+2024-03-17 21:32:19,292 :INFO :root :********** se ingresa a la pagina **********
+2024-03-17 21:32:19,852 :INFO :root :********** se encuentra la imagen True **********
+2024-03-17 21:32:19,853 :INFO :root :********** se ingresa a la escenario de multiples user y passwords <POM.LoginPage.LoginPage object at 0x0000015A10AAEE90> **********
+2024-03-17 21:32:19,888 :INFO :root :********** se ingresa el usuario admin123 **********
+2024-03-17 21:32:19,927 :INFO :root :********** se ingresa el password admin **********
+2024-03-17 21:32:19,954 :INFO :root :********** se realiza click al botón del login **********
+2024-03-17 21:32:19,955 :INFO :root :********** se ingresa a la pagina del dashboard <POM.DashboardPage.DashboardPage object at 0x0000015A0FEE7D90> **********
+2024-03-17 21:32:34,142 :INFO :root :********** se ingresa a la pagina **********
+2024-03-17 21:32:34,698 :INFO :root :********** se encuentra la imagen True **********
+2024-03-17 21:32:34,699 :INFO :root :********** se ingresa a la escenario de multiples user y passwords <POM.LoginPage.LoginPage object at 0x0000015A10AB8990> **********
+2024-03-17 21:32:34,748 :INFO :root :********** se ingresa el usuario adminxyz **********
+2024-03-17 21:32:34,787 :INFO :root :********** se ingresa el password admin123 **********
+2024-03-17 21:32:34,815 :INFO :root :********** se realiza click al botón del login **********
+2024-03-17 21:32:34,816 :INFO :root :********** se ingresa a la pagina del dashboard <POM.DashboardPage.DashboardPage object at 0x0000015A10AAF690> **********
+2024-03-17 21:32:48,708 :INFO :root :********** se ingresa a la pagina **********
+2024-03-17 21:32:49,260 :INFO :root :********** se encuentra la imagen True **********
+2024-03-17 21:32:49,261 :INFO :root :********** se ingresa a la escenario de multiples user y passwords <POM.LoginPage.LoginPage object at 0x0000015A10ABBE90> **********
+2024-03-17 21:32:49,300 :INFO :root :********** se ingresa el usuario admin **********
+2024-03-17 21:32:49,341 :INFO :root :********** se ingresa el password adminxyz **********
+2024-03-17 21:32:50,339 :INFO :root :********** se realiza click al botón del login **********
+2024-03-17 21:32:50,340 :INFO :root :********** se ingresa a la pagina del dashboard <POM.DashboardPage.DashboardPage object at 0x0000015A10AAFC10> **********
+2024-03-17 21:33:04,542 :INFO :root :********** se ingresa a la pagina **********
+2024-03-17 21:33:05,593 :INFO :root :********** se encuentra la imagen True **********
+2024-03-17 21:33:05,593 :INFO :root :********** se ingresa a la escenario de multiples user y passwords <POM.LoginPage.LoginPage object at 0x0000015A10ACCBD0> **********
+2024-03-17 21:33:05,636 :INFO :root :********** se ingresa el usuario admin **********
+2024-03-17 21:33:05,680 :INFO :root :********** se ingresa el password admin **********
+2024-03-17 21:33:06,856 :INFO :root :********** se realiza click al botón del login **********
+2024-03-17 21:33:06,857 :INFO :root :********** se ingresa a la pagina del dashboard <POM.DashboardPage.DashboardPage object at 0x0000015A10AA7B10> **********
