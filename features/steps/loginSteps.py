@@ -1,4 +1,5 @@
-
+import allure
+from allure_commons.types import AttachmentType
 from behave import *
 from selenium import webdriver
 from selenium.common import NoSuchElementException
@@ -13,6 +14,7 @@ stars = 10 * "*"
 
 base_class = BaseClass()
 log = base_class.loggen()
+
 @given('I Launch the browser')
 def step_impl(context):
     service_obj = Service()
@@ -57,7 +59,8 @@ def step_impl(context):
         log.info(f"{stars} se toma el texto {text_dashboard} {stars}")
         if text_dashboard == "Dashboard":
             message = "Test Passed"
-            context.driver.save_screenshot(".\\ScreenShots\\" + "User must succesfully login to the Dashboard page.png")
+            #allure.attach(context.driver.get_screenshot_as_png(), name ="User must succesfully login to the Dashboard page", attachment_type=AttachmentType.PNG)
+
         else:
             message = "Test Falied"
         context.driver.close()
@@ -94,6 +97,7 @@ def step_impl(context):
     if text_invalid_credentials == 'Invalid credentials':
         assert True, "Test Passed"
         log.info(f"{stars} el test paso {stars}")
+        #context.allure.attach(context.driver.get_screenshot_as_png(), name="User must succesfully login to the Dashboard page", attachment_type=AttachmentType.PNG)
     else:
         assert False, "Test Failed"
         log.error(f"{stars} el test fallo {stars}")
