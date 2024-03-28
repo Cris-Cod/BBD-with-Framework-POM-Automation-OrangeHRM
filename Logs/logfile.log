@@ -1,55 +1,111 @@
-2024-03-20 18:27:49,446 :INFO :root :********** se ingresa a la pagina **********
-2024-03-20 18:27:50,492 :INFO :root :********** se encuentra la imagen True **********
-2024-03-20 18:27:50,493 :INFO :root :********** se ingresa a la pagina del login <POM.LoginPage.LoginPage object at 0x00000182C8C058D0> **********
-2024-03-20 18:27:50,526 :INFO :root :********** se ingresa el usuario admin **********
-2024-03-20 18:27:50,566 :INFO :root :********** se ingresa el password admin123 **********
-2024-03-20 18:27:50,593 :INFO :root :********** se realiza click al botón del login **********
-2024-03-20 18:27:50,594 :INFO :root :********** se ingresa a la pagina del dashboard <POM.DashboardPage.DashboardPage object at 0x00000182C8C04150> **********
-2024-03-20 18:27:52,222 :INFO :root :********** se toma el texto Dashboard **********
-2024-03-20 18:27:52,251 :INFO :root :********** Test Passed **********
-2024-03-20 18:27:58,285 :INFO :root :********** se ingresa a la pagina **********
-2024-03-20 18:27:59,330 :INFO :root :********** se encuentra la imagen True **********
-2024-03-20 18:27:59,330 :INFO :root :********** se ingresa a la pagina del login <POM.LoginPage.LoginPage object at 0x00000182C8C07010> **********
-2024-03-20 18:27:59,362 :INFO :root :********** se ingresa el usuario admin **********
-2024-03-20 18:27:59,401 :INFO :root :********** se ingresa el password admin **********
-2024-03-20 18:28:00,461 :INFO :root :********** se realiza click al botón del login **********
-2024-03-20 18:28:00,462 :INFO :root :********** se ingresa a la pagina del login <POM.LoginPage.LoginPage object at 0x00000182C8C06890> **********
-2024-03-20 18:28:00,988 :INFO :root :********** se toma el texto de Invalid credentials <POM.LoginPage.LoginPage object at 0x00000182C8C06890> **********
-2024-03-20 18:28:00,988 :INFO :root :********** el test paso **********
-2024-03-20 18:28:04,997 :INFO :root :********** se ingresa a la pagina **********
-2024-03-20 18:28:06,045 :INFO :root :********** se encuentra la imagen True **********
-2024-03-20 18:28:06,047 :INFO :root :********** se ingresa a la escenario de multiples user y passwords <POM.LoginPage.LoginPage object at 0x00000182C8F55D10> **********
-2024-03-20 18:28:06,082 :INFO :root :********** se ingresa el usuario admin **********
-2024-03-20 18:28:06,129 :INFO :root :********** se ingresa el password admin123 **********
-2024-03-20 18:28:07,234 :INFO :root :********** se realiza click al botón del login **********
-2024-03-20 18:28:07,235 :INFO :root :********** se ingresa a la pagina del dashboard <POM.DashboardPage.DashboardPage object at 0x00000182C8F55F10> **********
-2024-03-20 18:28:07,768 :INFO :root :********** se toma el texto Dashboard **********
-2024-03-20 18:28:07,803 :INFO :root :********** Test Passed **********
-2024-03-20 18:28:13,691 :INFO :root :********** se ingresa a la pagina **********
-2024-03-20 18:28:14,254 :INFO :root :********** se encuentra la imagen True **********
-2024-03-20 18:28:14,255 :INFO :root :********** se ingresa a la escenario de multiples user y passwords <POM.LoginPage.LoginPage object at 0x00000182C8F57B90> **********
-2024-03-20 18:28:14,293 :INFO :root :********** se ingresa el usuario admin123 **********
-2024-03-20 18:28:14,329 :INFO :root :********** se ingresa el password admin **********
-2024-03-20 18:28:15,020 :INFO :root :********** se realiza click al botón del login **********
-2024-03-20 18:28:15,020 :INFO :root :********** se ingresa a la pagina del dashboard <POM.DashboardPage.DashboardPage object at 0x00000182C8F56990> **********
-2024-03-20 18:28:28,902 :INFO :root :********** se ingresa a la pagina **********
-2024-03-20 18:28:29,454 :INFO :root :********** se encuentra la imagen True **********
-2024-03-20 18:28:29,455 :INFO :root :********** se ingresa a la escenario de multiples user y passwords <POM.LoginPage.LoginPage object at 0x00000182C8F6DA90> **********
-2024-03-20 18:28:29,493 :INFO :root :********** se ingresa el usuario adminxyz **********
-2024-03-20 18:28:29,536 :INFO :root :********** se ingresa el password admin123 **********
-2024-03-20 18:28:30,237 :INFO :root :********** se realiza click al botón del login **********
-2024-03-20 18:28:30,237 :INFO :root :********** se ingresa a la pagina del dashboard <POM.DashboardPage.DashboardPage object at 0x00000182C8F6E290> **********
-2024-03-20 18:28:44,113 :INFO :root :********** se ingresa a la pagina **********
-2024-03-20 18:28:44,658 :INFO :root :********** se encuentra la imagen True **********
-2024-03-20 18:28:44,659 :INFO :root :********** se ingresa a la escenario de multiples user y passwords <POM.LoginPage.LoginPage object at 0x00000182C8F6ED50> **********
-2024-03-20 18:28:44,697 :INFO :root :********** se ingresa el usuario admin **********
-2024-03-20 18:28:44,739 :INFO :root :********** se ingresa el password adminxyz **********
-2024-03-20 18:28:45,709 :INFO :root :********** se realiza click al botón del login **********
-2024-03-20 18:28:45,710 :INFO :root :********** se ingresa a la pagina del dashboard <POM.DashboardPage.DashboardPage object at 0x00000182C8F6D350> **********
-2024-03-20 18:28:59,535 :INFO :root :********** se ingresa a la pagina **********
-2024-03-20 18:29:00,088 :INFO :root :********** se encuentra la imagen True **********
-2024-03-20 18:29:00,089 :INFO :root :********** se ingresa a la escenario de multiples user y passwords <POM.LoginPage.LoginPage object at 0x00000182C8F75610> **********
-2024-03-20 18:29:00,148 :INFO :root :********** se ingresa el usuario admin **********
-2024-03-20 18:29:00,188 :INFO :root :********** se ingresa el password admin **********
-2024-03-20 18:29:01,175 :INFO :root :********** se realiza click al botón del login **********
-2024-03-20 18:29:01,175 :INFO :root :********** se ingresa a la pagina del dashboard <POM.DashboardPage.DashboardPage object at 0x00000182C8F75210> **********
+2024-03-28 18:41:49,670 :INFO :WDM :====== WebDriver manager ======
+2024-03-28 18:41:50,378 :INFO :WDM :Get LATEST chromedriver version for google-chrome
+2024-03-28 18:41:50,625 :INFO :WDM :Get LATEST chromedriver version for google-chrome
+2024-03-28 18:41:50,863 :INFO :WDM :Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\123.0.6312.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-03-28 18:41:54,393 :INFO :root :********** se ingresa a la pagina **********
+2024-03-28 18:41:54,394 :INFO :root :********** se ingresa a la pagina del login <POM.LoginPage.LoginPage object at 0x000001B8E4BAE710> **********
+2024-03-28 18:41:54,964 :INFO :root :********** se ingresa el usuario admin **********
+2024-03-28 18:41:55,008 :INFO :root :********** se ingresa el password admin123 **********
+2024-03-28 18:41:55,040 :INFO :root :********** se realiza click al botón del login **********
+2024-03-28 18:41:55,040 :INFO :root :********** se ingresa a la pagina del dashboard <POM.DashboardPage.DashboardPage object at 0x000001B8E3B757D0> **********
+2024-03-28 18:41:56,688 :INFO :root :********** se toma el texto Dashboard **********
+2024-03-28 18:41:56,689 :INFO :root :********** Test Passed **********
+2024-03-28 18:41:56,689 :INFO :root :********** se ingresa a la pagina del dashboard <POM.DashboardPage.DashboardPage object at 0x000001B8E4BAFDD0> **********
+2024-03-28 18:41:58,300 :INFO :root :********** se realiza click sobre el boton admin **********
+2024-03-28 18:41:59,246 :INFO :root :********** se realiza click sobre el boton add **********
+2024-03-28 18:41:59,247 :INFO :root :********** se ingresa a la pagina add user**********
+2024-03-28 18:41:59,784 :INFO :root :********** se realiza click sobre el campo role**********
+2024-03-28 18:41:59,816 :INFO :root :********** se seleccina una opción**********
+2024-03-28 18:41:59,854 :INFO :root :********** se ingresa el nombre del usuario**********
+2024-03-28 18:42:01,406 :INFO :root :********** se selecciona el nombre completo del usuario**********
+2024-03-28 18:42:01,432 :INFO :root :********** se realiza click sobre el campo status**********
+2024-03-28 18:42:01,468 :INFO :root :********** se seleccina una opción de status**********
+2024-03-28 18:42:01,511 :INFO :root :********** se ingresa un username**********
+2024-03-28 18:42:01,641 :INFO :root :********** se ingresa el password**********
+2024-03-28 18:42:01,782 :INFO :root :********** se confirma el password**********
+2024-03-28 18:42:01,907 :INFO :root :********** se hace click al botón save **********
+2024-03-28 18:42:03,950 :INFO :root :********** se toma el texto Successfully Saved **********
+2024-03-28 18:42:04,054 :INFO :root :********** el test Passed Successfully Saved **********
+2024-03-28 18:42:06,110 :INFO :WDM :====== WebDriver manager ======
+2024-03-28 18:42:06,766 :INFO :WDM :Get LATEST chromedriver version for google-chrome
+2024-03-28 18:42:07,000 :INFO :WDM :Get LATEST chromedriver version for google-chrome
+2024-03-28 18:42:07,239 :INFO :WDM :Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\123.0.6312.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-03-28 18:42:10,967 :INFO :root :********** se ingresa a la pagina **********
+2024-03-28 18:42:11,514 :INFO :root :********** se encuentra la imagen True **********
+2024-03-28 18:42:11,515 :INFO :root :********** se ingresa a la pagina del login <POM.LoginPage.LoginPage object at 0x000001B8E4BD2090> **********
+2024-03-28 18:42:11,571 :INFO :root :********** se ingresa el usuario admin **********
+2024-03-28 18:42:11,617 :INFO :root :********** se ingresa el password admin123 **********
+2024-03-28 18:42:12,749 :INFO :root :********** se realiza click al botón del login **********
+2024-03-28 18:42:12,750 :INFO :root :********** se ingresa a la pagina del dashboard <POM.DashboardPage.DashboardPage object at 0x000001B8E4BD1750> **********
+2024-03-28 18:42:13,293 :INFO :root :********** se toma el texto Dashboard **********
+2024-03-28 18:42:13,365 :INFO :root :********** Test Passed **********
+2024-03-28 18:42:15,423 :INFO :WDM :====== WebDriver manager ======
+2024-03-28 18:42:16,124 :INFO :WDM :Get LATEST chromedriver version for google-chrome
+2024-03-28 18:42:16,360 :INFO :WDM :Get LATEST chromedriver version for google-chrome
+2024-03-28 18:42:16,606 :INFO :WDM :Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\123.0.6312.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-03-28 18:42:20,166 :INFO :root :********** se ingresa a la pagina **********
+2024-03-28 18:42:20,739 :INFO :root :********** se encuentra la imagen True **********
+2024-03-28 18:42:20,740 :INFO :root :********** se ingresa a la pagina del login <POM.LoginPage.LoginPage object at 0x000001B8E4BDE510> **********
+2024-03-28 18:42:20,795 :INFO :root :********** se ingresa el usuario admin **********
+2024-03-28 18:42:20,837 :INFO :root :********** se ingresa el password admin **********
+2024-03-28 18:42:20,869 :INFO :root :********** se realiza click al botón del login **********
+2024-03-28 18:42:20,870 :INFO :root :********** se ingresa a la pagina del login <POM.LoginPage.LoginPage object at 0x000001B8E4BC8BD0> **********
+2024-03-28 18:42:22,382 :INFO :root :********** se toma el texto de Invalid credentials <POM.LoginPage.LoginPage object at 0x000001B8E4BC8BD0> **********
+2024-03-28 18:42:22,382 :INFO :root :********** el test paso **********
+2024-03-28 18:42:24,498 :INFO :WDM :====== WebDriver manager ======
+2024-03-28 18:42:25,215 :INFO :WDM :Get LATEST chromedriver version for google-chrome
+2024-03-28 18:42:25,479 :INFO :WDM :Get LATEST chromedriver version for google-chrome
+2024-03-28 18:42:25,748 :INFO :WDM :Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\123.0.6312.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-03-28 18:42:29,298 :INFO :root :********** se ingresa a la pagina **********
+2024-03-28 18:42:29,911 :INFO :root :********** se encuentra la imagen True **********
+2024-03-28 18:42:29,912 :INFO :root :********** se ingresa a la escenario de multiples user y passwords <POM.LoginPage.LoginPage object at 0x000001B8E4BD3950> **********
+2024-03-28 18:42:29,995 :INFO :root :********** se ingresa el usuario admin **********
+2024-03-28 18:42:30,058 :INFO :root :********** se ingresa el password admin123 **********
+2024-03-28 18:42:30,100 :INFO :root :********** se realiza click al botón del login **********
+2024-03-28 18:42:30,101 :INFO :root :********** se ingresa a la pagina del dashboard <POM.DashboardPage.DashboardPage object at 0x000001B8E4BD1E90> **********
+2024-03-28 18:42:31,681 :INFO :root :********** se toma el texto Dashboard **********
+2024-03-28 18:42:31,755 :INFO :root :********** Test Passed **********
+2024-03-28 18:42:33,820 :INFO :WDM :====== WebDriver manager ======
+2024-03-28 18:42:34,595 :INFO :WDM :Get LATEST chromedriver version for google-chrome
+2024-03-28 18:42:34,858 :INFO :WDM :Get LATEST chromedriver version for google-chrome
+2024-03-28 18:42:35,111 :INFO :WDM :Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\123.0.6312.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-03-28 18:42:38,696 :INFO :root :********** se ingresa a la pagina **********
+2024-03-28 18:42:39,745 :INFO :root :********** se encuentra la imagen True **********
+2024-03-28 18:42:39,747 :INFO :root :********** se ingresa a la escenario de multiples user y passwords <POM.LoginPage.LoginPage object at 0x000001B8E4BC8590> **********
+2024-03-28 18:42:39,792 :INFO :root :********** se ingresa el usuario admin123 **********
+2024-03-28 18:42:39,830 :INFO :root :********** se ingresa el password admin **********
+2024-03-28 18:42:39,857 :INFO :root :********** se realiza click al botón del login **********
+2024-03-28 18:42:39,858 :INFO :root :********** se ingresa a la pagina del dashboard <POM.DashboardPage.DashboardPage object at 0x000001B8E4BC8110> **********
+2024-03-28 18:42:50,172 :INFO :WDM :====== WebDriver manager ======
+2024-03-28 18:42:50,868 :INFO :WDM :Get LATEST chromedriver version for google-chrome
+2024-03-28 18:42:51,125 :INFO :WDM :Get LATEST chromedriver version for google-chrome
+2024-03-28 18:42:51,389 :INFO :WDM :Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\123.0.6312.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-03-28 18:42:54,969 :INFO :root :********** se ingresa a la pagina **********
+2024-03-28 18:42:55,513 :INFO :root :********** se encuentra la imagen True **********
+2024-03-28 18:42:55,514 :INFO :root :********** se ingresa a la escenario de multiples user y passwords <POM.LoginPage.LoginPage object at 0x000001B8E4BD14D0> **********
+2024-03-28 18:42:55,573 :INFO :root :********** se ingresa el usuario adminxyz **********
+2024-03-28 18:42:55,620 :INFO :root :********** se ingresa el password admin123 **********
+2024-03-28 18:42:56,336 :INFO :root :********** se realiza click al botón del login **********
+2024-03-28 18:42:56,336 :INFO :root :********** se ingresa a la pagina del dashboard <POM.DashboardPage.DashboardPage object at 0x000001B8E4BD2F10> **********
+2024-03-28 18:43:06,474 :INFO :WDM :====== WebDriver manager ======
+2024-03-28 18:43:07,183 :INFO :WDM :Get LATEST chromedriver version for google-chrome
+2024-03-28 18:43:07,425 :INFO :WDM :Get LATEST chromedriver version for google-chrome
+2024-03-28 18:43:07,682 :INFO :WDM :Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\123.0.6312.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-03-28 18:43:11,247 :INFO :root :********** se ingresa a la pagina **********
+2024-03-28 18:43:11,801 :INFO :root :********** se encuentra la imagen True **********
+2024-03-28 18:43:11,802 :INFO :root :********** se ingresa a la escenario de multiples user y passwords <POM.LoginPage.LoginPage object at 0x000001B8E4BDE310> **********
+2024-03-28 18:43:11,863 :INFO :root :********** se ingresa el usuario admin **********
+2024-03-28 18:43:11,912 :INFO :root :********** se ingresa el password adminxyz **********
+2024-03-28 18:43:11,942 :INFO :root :********** se realiza click al botón del login **********
+2024-03-28 18:43:11,943 :INFO :root :********** se ingresa a la pagina del dashboard <POM.DashboardPage.DashboardPage object at 0x000001B8E4C02F10> **********
+2024-03-28 18:43:22,029 :INFO :WDM :====== WebDriver manager ======
+2024-03-28 18:43:22,747 :INFO :WDM :Get LATEST chromedriver version for google-chrome
+2024-03-28 18:43:23,105 :INFO :WDM :Get LATEST chromedriver version for google-chrome
+2024-03-28 18:43:23,361 :INFO :WDM :Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\123.0.6312.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-03-28 18:43:26,863 :INFO :root :********** se ingresa a la pagina **********
+2024-03-28 18:43:27,920 :INFO :root :********** se encuentra la imagen True **********
+2024-03-28 18:43:27,921 :INFO :root :********** se ingresa a la escenario de multiples user y passwords <POM.LoginPage.LoginPage object at 0x000001B8E4BF4850> **********
+2024-03-28 18:43:27,956 :INFO :root :********** se ingresa el usuario admin **********
+2024-03-28 18:43:28,004 :INFO :root :********** se ingresa el password admin **********
+2024-03-28 18:43:29,012 :INFO :root :********** se realiza click al botón del login **********
+2024-03-28 18:43:29,013 :INFO :root :********** se ingresa a la pagina del dashboard <POM.DashboardPage.DashboardPage object at 0x000001B8E4BF4ED0> **********
